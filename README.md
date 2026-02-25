@@ -44,6 +44,9 @@ The lab served as a sandbox for several attack and defense scenarios:
 * **Virtualization**: Oracle VM VirtualBox (Type 2 Hypervisor).
 * **Diagramming**: fossFLOW.
 
+## ⚙️ Configuration Files
+In the `/configs` directory, you can find the **[pfSense backup file](./configs/pfsense-config-full.xml)**. It includes the complete firewall ruleset, VLAN definitions, and DHCP configurations used in this lab.
+
 ## 📄 Full Project Report
 For a deep dive into the technical configurations, firewall rules, and detailed audit results, read the full documentation here:
 👉 **[View PDF Report](./Network_Security_Lab_Report.pdf)**
