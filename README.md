@@ -43,3 +43,7 @@ The lab served as a sandbox for several attack and defense scenarios:
 * **Security/Pentest**: Kali Linux, Nmap, Hydra, Fail2Ban.
 * **Virtualization**: Oracle VM VirtualBox (Type 2 Hypervisor).
 * **Diagramming**: fossFLOW.
+
+## 📄 Full Project Report
+For a deep dive into the technical configurations, firewall rules, and detailed audit results, read the full documentation here:
+👉 **[View PDF Report](./Network_Security_Lab_Report.pdf)**
